@@ -1,0 +1,50 @@
+﻿body {
+    background-color:seagreen;
+}
+
+.Login {
+
+    padding-left:5px;
+    padding-right:25px;
+    background-color:lightcoral;
+    margin-top:-230px;
+    margin-right:25px;
+  
+    float:right;
+    
+}
+.primary_content {
+    background-color:lightsalmon;
+    margin-left:20px;
+
+}
+.second {
+    margin-top:20px;
+    margin-left:20px;
+width:1000px;
+
+}
+ .first{
+    
+padding-left:5px;
+padding-right:5px;
+     float:right;
+    background-color:wheat;
+    margin-top:-250px;
+    margin-left:20px;
+width:300px;
+    
+}
+.last {
+
+ float:right;
+    background-color:wheat;
+    margin-top:-150px;
+    margin-left:20px;
+width:300px;
+
+padding-bottom:10px;
+padding-left:5px;
+padding-right:5px;
+}
+
