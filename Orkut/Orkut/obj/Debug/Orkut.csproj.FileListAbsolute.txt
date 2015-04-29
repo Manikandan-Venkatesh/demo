@@ -1,0 +1,5 @@
+D:\Vamsi\HTML\Orkut\Orkut\bin\Orkut.dll
+D:\Vamsi\HTML\Orkut\Orkut\bin\Orkut.pdb
+D:\Vamsi\HTML\Orkut\Orkut\obj\Debug\Orkut.csprojResolveAssemblyReference.cache
+D:\Vamsi\HTML\Orkut\Orkut\obj\Debug\Orkut.dll
+D:\Vamsi\HTML\Orkut\Orkut\obj\Debug\Orkut.pdb
